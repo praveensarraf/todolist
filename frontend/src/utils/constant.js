@@ -1,2 +1,2 @@
-export const USER_API_END_POINT = "http://localhost:5000/api/v1/user";
-export const TODOS_API_END_POINT = "http://localhost:5000/api/v1/todos";
+export const USER_API_END_POINT = "https://my-todolist-cde7.onrender.com/api/v1/user";
+export const TODOS_API_END_POINT = "https://my-todolist-cde7.onrender.com/api/v1/todos";
